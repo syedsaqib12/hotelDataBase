@@ -9,6 +9,18 @@ staff
 Delivery
 Contact us
 
+function add(number1,number2) {
+return number1 + number2;
+add(8,2);
+}
+function multiply(numb1,numb2,numb3){
+    return numb1* numb2* numb3;
+}
+function multiplyManyNumbers(numbers) {
+    for (let i = 0; i < numbers.length)
+}
+// function ko input dene ke lye input me likhte hen or output kr lye curli breakit me retun likhte hen
+
 */
 let hotel = [
          
@@ -19,10 +31,3 @@ let hotel = [
 		 {
 			 Burgers:["Scrappy Coco Burger","Danzinger","Fat Boy Slim Burger"],
 			 Sandwich: ["Kamikaze", "jjacjkajk", "sacjkakljajklc","ajksha"],
-			 
-			 
-			 
-			 }
-		 
-
-		 
